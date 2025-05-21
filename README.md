@@ -1,3 +1,7 @@
 # website-flow
 
-excercise pour la Wild COde School
+excercise pour la Wild Code School
+
+## Pizzas preferes
+- regina
+- chorizo
